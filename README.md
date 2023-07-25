@@ -1,4 +1,14 @@
 # Superwire
-A repository to build up basic concept about superwire, Anderson Localization, Branched flow during my visiting in Prof. Heller's Group at Harvard
+This is a repository to build up basic concept about superwire, Anderson Localization, Branched flow.
+Idea is based on the following two article:
+1. Propagation of waves in high Brillouin zones: Chaotic branched flow and stable superwires
+https://www.pnas.org/doi/10.1073/pnas.2110285118
+
+2. Achieving centimetre-scale supercollimation in a large-area two-dimensional photonic crystal - Nature Materials
+https://www.nature.com/articles/nmat1568
 
 ## Introduction to (1+1)D SSFFT method
+See Matlab ".mlx" notebook for detail introduction to (1+1)D split step method
+
+## Demostration about Anderson Localization
+Here is a YouTube Link for a visual explanation about Anderson Localization: https://www.youtube.com/watch?v=SrOcj3F2BJ4

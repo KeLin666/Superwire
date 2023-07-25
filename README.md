@@ -8,7 +8,7 @@ https://www.pnas.org/doi/10.1073/pnas.2110285118
 https://www.nature.com/articles/nmat1568
 
 ## Introduction to (1+1)D SSFFT method
-See Matlab ".mlx" notebook for detail introduction to (1+1)D split step method
+See Matlab "NoteBookforSSFFT.mlx" notebook for detail introduction to (1+1)D split step method
 
 ## Demostration about Anderson Localization
 Here is a YouTube Link for a visual explanation about Anderson Localization: https://www.youtube.com/watch?v=SrOcj3F2BJ4

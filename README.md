@@ -16,3 +16,5 @@ See Matlab "NoteBookforSSFFT.mlx" notebook for detail introduction to (1+1)D spl
 ## Demostration about Anderson Localization
 Here is a YouTube Link for a visual explanation about Anderson Localization: https://www.youtube.com/watch?v=SrOcj3F2BJ4
 
+## 3D Supercollimation simulation
+Detail is shown in fold (0723Supercollimation3D). Similar to (1+1)D simulaion, we apply (2+1)D SSFFT method and see how beam profile will evolve in cos^2 lattice.

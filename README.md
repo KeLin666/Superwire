@@ -1,7 +1,7 @@
 # Superwire
 This is a repository to build up basic concept about superwire, Anderson Localization, Branched flow.
 Idea is based on the following two article:
-1. Propagation of waves in high Brillouin zones: Chaotic branched flow and stable superwires
+1. Propagation of waves in high Brillouin zones: Chaotic branched flow and stable superwires - Proceedings of the National Academy of Sciences
 https://www.pnas.org/doi/10.1073/pnas.2110285118
 
 2. Achieving centimetre-scale supercollimation in a large-area two-dimensional photonic crystal - Nature Materials

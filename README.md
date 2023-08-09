@@ -21,3 +21,6 @@ In folder 0723Supercollimation2D, some pictures are shown to figure out the exis
 
 ## 3D Supercollimation beam simulation
 Detail is shown in fold "0723Supercollimation3D". Similar to (1+1)D simulaion, we apply (2+1)D SSFFT method and see how beam profile will evolve in cos^2 lattice.
+
+## Different btw superwire and supercolimation
+We should carefully deal with superwire and supercolimation, the former one is more like a semi-classical particle and the latter one can be explaned by flat band in equal energy contour. Details are shown in folder.
